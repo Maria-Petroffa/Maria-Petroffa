@@ -3,7 +3,9 @@
 Мои учебные проекты
 
 #### Когнитивные искажения
+
 Лендинг, описывающий распространённые когнитивные искажения в программировании.
+
 [Ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на страницу, [ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на код
 
 Полученные навыки:
@@ -14,8 +16,11 @@
 Стэк: HTML, CSS, Node.js, ESLint, Git,
 
 #### Игры разума
-[Ссылка](https://github.com/Maria-Petroffa/frontend-project-lvl1) на код
+
 Набор математических мини-игр, запускаемых в консоли.
+
+[Ссылка](https://github.com/Maria-Petroffa/frontend-project-lvl1) на код
+
 
 Полученные навыки:
 - настройка окружения: Node.js, npm, Prettier, Eslint
