@@ -2,7 +2,7 @@
 
 Мои учебные проекты
 
-####Когнитивные искажения
+#### Когнитивные искажения
 Лендинг, описывающий распространённые когнитивные искажения в программировании.
 [Ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на страницу, [ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на код
 
@@ -13,7 +13,7 @@
 
 Стэк: HTML, CSS, Node.js, ESLint, Git,
 
-####Игры разума
+#### Игры разума
 [Ссылка](https://github.com/Maria-Petroffa/frontend-project-lvl1) на код
 Набор математических мини-игр, запускаемых в консоли.
 
