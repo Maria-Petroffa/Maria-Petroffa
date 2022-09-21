@@ -4,7 +4,7 @@
 
 Лендинг, описывающий распространённые когнитивные искажения в программировании.
 
-[Ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на страницу, [ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на код
+[Ссылка](https://maria-petroffa.github.io/cognitive-distortions/) на страницу, [ссылка](https://github.com/Maria-Petroffa/cognitive-distortions) на код
 
 Полученные навыки:
 - настройка окружения: Node.js, npm, Eslint
